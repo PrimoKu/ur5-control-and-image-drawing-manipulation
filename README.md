@@ -1,1 +1,1 @@
-# UR5-Control-and-Image-Drawing-Manipulation
+# UR5 Control and Image Drawing Manipulation
